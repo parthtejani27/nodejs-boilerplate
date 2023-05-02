@@ -1,2 +1,2 @@
 # nodejs-boilerplate
-this is an boilerplate with hapi js framework
+A boilerplate with hapi js framework
